@@ -1,10 +1,13 @@
 #!python3
 """
 We start by importing a module, and also import all of the important
-code from that module. I'm not sure why they do it this way, but 
-that's the way it is.
+code from that module. 
 """
+
+#This imports the tkinter file as tk
 import tkinter as tk 
+
+#This imports all the functions associated with the tkintter file as if they were in your local file
 from tkinter import *
 
 
